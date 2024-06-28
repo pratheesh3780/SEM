@@ -1,0 +1,3 @@
+https://bookdown.org/bean_jerry/using_r_for_social_work_research/structural-equation-modeling.html
+
+https://stats.oarc.ucla.edu/r/seminars/rsem/#:~:text=Structural%20equation%20modeling%20is%20a,as%20special%20cases%20of%20SEM.
